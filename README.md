@@ -8,7 +8,9 @@ of th Getting and Cleaning data MOOC. One should also consult the codebook to un
 contained in the final text file. 
 
 First I read the text files in the train folder. This can only be done if
-the run_analysis.R file is in the UCI HAR Daataset folder
+the run_analysis.R file is in the UCI HAR Daataset folder 
+(that can be downloaded here 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
 ```{r}
