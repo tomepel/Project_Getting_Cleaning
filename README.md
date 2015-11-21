@@ -16,7 +16,7 @@ Xtrain<-read.table("train/X_train.txt")
 ```
 
  the previous command may take some time to run, as it is a large table.
- One can convince himslef that this is the case by inspecting the dimension of the  loaded table
+ One can convince himself that this is the case by inspecting the dimension of the  loaded table
  
 ```{r}
 dim(Xtrain)
