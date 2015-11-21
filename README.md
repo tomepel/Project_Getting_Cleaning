@@ -139,5 +139,5 @@ And I finally save the tidy data set with the averages
 write.table(tidydataavg,file="tidyaverage.txt", row.name=FALSE)
 ```
 
-The final text file contains 81 variables(79 means and st as well as 2 columns for 
+The final text file contains 81 variables(79 means and std as well as 2 columns for 
 the subjects and activities) for 180 rows(corresponding to 30 subjects * 6 activities)
